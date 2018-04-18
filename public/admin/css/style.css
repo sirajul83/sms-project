@@ -1,0 +1,59 @@
+.wrapper button, input, optgroup, select, textarea .select_btn{
+
+    width: 265px;
+    height: 45px;
+}
+.profile {
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid #1b1e21;
+    padding: 30px;
+}
+.profile img{
+    width: 120px;
+    height: 120px;
+    margin-left: 150px;
+}
+.profile span{
+    color: #5a6268;
+    text-align: left;
+}
+.profile p{
+    color: #23272b !important;
+    text-align: left;
+}
+.check_box input, .select_btn {
+    width: 20px;
+    height: 20px;
+}
+.teacher_profile{
+    width: 60%;
+    margin-top: 30px;
+    border: 1px solid #1b1e21;
+    text-align: left;
+   padding-left: 20px;
+   padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.teacher_profile img{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.teacher_profile p{
+    color: #23272b;
+}
+.teacher_profile span{
+    color:#4e555b;
+}
+.wrapper_admission .table td, .table th{
+    padding: .75rem;
+    vertical-align: top;
+    border-top: none;
+}
+.t_blood{
+    margin-left: -10px;
+}
